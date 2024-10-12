@@ -1,5 +1,3 @@
-# tasker
-task management app 
 # Tasker - Task Management Web App
 
 This is a solution to the task management web app challenge that I built to improve my coding skills and showcase my work. Tasker is designed to help users manage their tasks efficiently, offering features to create, update, and organize tasks within a user-friendly interface.
